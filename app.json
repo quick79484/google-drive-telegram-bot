@@ -1,5 +1,5 @@
 {
-  "name": "GDrive-Uploader-Bot",
+  "name": "ZinkMovies-Uploader-Bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
   "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
@@ -20,7 +20,7 @@
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "601831683 1091484213 1035968257"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
@@ -32,11 +32,11 @@
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
-      "value": "202264815644.apps.googleusercontent.com"
+      "value": "473720960246-qq1jcpi4pcakcj0jsqs85gvaaucls9jq.apps.googleusercontent.com"
     },
     "G_DRIVE_CLIENT_SECRET": {
       "description": "Google Drive Client Secret from Google Cloud Platform",
-      "value": "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
+      "value": "jlPkRvWP4VnO4kcI1_qkVI0-"
     }
   },
    "addons": [{
